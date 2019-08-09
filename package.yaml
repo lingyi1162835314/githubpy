@@ -1,2 +1,5 @@
 name: test
 license: bbbbbbb
+keywords:                                      # 多标签
+  - base
+  - XML
